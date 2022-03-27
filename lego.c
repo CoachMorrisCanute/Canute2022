@@ -8,7 +8,7 @@ int main()
     motor (1, 100);					//motor #1 moves forward.
     msleep (2000);					//waits 2 sec.
     
-    motor (0, 100);					//lego robo moves to the left.
+    motor (0, 200);					//lego robo moves to the left.
     motor (1, 50);
     msleep (2000);
     
